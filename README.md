@@ -24,10 +24,10 @@ Try out the [Daily Todo List Application](https://todolistapp24.netlify.app) her
 
 <h2> How to Use </h2>
 <ol>
-1. Visit the [demo link](https://todolistapp24.netlify.app) to access the application.
-2. Add tasks using the input field.
-3. Select a category for the task from the dropdown menu.
-4. Click on the "Add Task" button to add the task to the list.
-5. To delete a task, click on the delete icon next to the task.
-6. To mark a task as complete, click on the checkbox next to the task.
+<li> Visit the [demo link](https://todolistapp24.netlify.app) to access the application. </li>
+<li> Add tasks using the input field. </li>
+<li> Select a category for the task from the dropdown menu. </li>
+<li> Click on the "Add Task" button to add the task to the list. </li>
+<li> To delete a task, click on the delete icon next to the task. </li>
+<li> To mark a task as complete, click on the checkbox next to the task. </li>
 </ol>
