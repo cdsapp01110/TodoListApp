@@ -2,7 +2,7 @@
 
 ![TodoApp Preview](https://github.com/cdsapp01110/TodoListApp/assets/145883353/a59053bb-6268-401c-a1db-b142baf4c1fc)
 
-This is a daily todo list application created using HTML, CSS, and JavaScript. Users can add, delete, and mark tasks as complete. Tasks can be categorized into work, personal, code, fitness, and more.
+This is a daily todo list application!
 
 <h2> Features </h2>
 <ul>
