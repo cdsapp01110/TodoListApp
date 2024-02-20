@@ -2,8 +2,6 @@
 
 ![TodoApp Preview](https://github.com/cdsapp01110/TodoListApp/assets/145883353/a59053bb-6268-401c-a1db-b142baf4c1fc)
 
-This is a daily todo list application!
-
 <h2> Features </h2>
 <ul>
 <li>Add tasks with different categories</li>
