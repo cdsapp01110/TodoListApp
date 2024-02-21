@@ -130,7 +130,7 @@ let tasks = [
     category: "Finance",
     completed: false,
   },
-  // Additional tasks for each category
+  
   {
     id: 17,
     task: "Buy new clothes",
@@ -185,7 +185,7 @@ let tasks = [
     category: "Finance",
     completed: false,
   },
-  // Add more tasks for each category as desired
+  
 ];
 
 // Define functions
